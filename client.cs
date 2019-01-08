@@ -7,7 +7,7 @@ $remapName[$remapCount]		= "Toggle Rapidfire";
 $remapCmd[$remapCount]		= "rapidFirev2";
 $remapCount++;
 
-$remapName[$remapCount]		= "TOggle Alt Rapid Clicker";
+$remapName[$remapCount]		= "Toggle Alt Rapid Clicker";
 $remapCmd[$remapCount]		= "altRapidClick";
 $remapCount++;
 
